@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multiple-Devices-Lab</string>
+    <string name="textview_main">Voulez-vous savoir ce qui se passera dans trois mois ?</string>
+    <string name="button_text">CLIQUEZ</string>
+    <string name="textview_2">Vous allez être un développeur génial. Continue à travailler dur.</string>
+</resources>
